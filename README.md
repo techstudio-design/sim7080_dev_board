@@ -26,4 +26,4 @@ SIM7080 Dev Board can be purchased at [TechStudio](https://www.techstudio.design
 For usage and documentation, please refer to the [supports](https://www.techstudio.design/supports) page.
 
 ### License
-All PCB design files and hardware are released under the [Creative Commons Attribution Share Alike 4.0] (https://choosealicense.com/licenses/cc-by-sa-4.0/) license.
+All PCB design files and hardware are released under the [Creative Commons Attribution Share Alike 4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/) license.
