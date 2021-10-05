@@ -19,9 +19,6 @@ The small form factor and low cost allows IoT system designer/software developer
 - GNSS active antenna power control by host MCU
 - SIM card slot that supports 1.8V nano SIM card
 
-### Purchase
-SIM7080 Dev Board can be purchased at [TechStudio](https://www.techstudio.design/products) website.
-
 ### Resource
 For usage and documentation, please refer to the [supports](https://www.techstudio.design/supports) page.
 
